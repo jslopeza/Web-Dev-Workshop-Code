@@ -1,0 +1,24 @@
+body {
+	background-color: brown;
+	color : white;
+	border : 2px solid black;
+	margin : 5px 2px 5px 2px;
+	padding : 5px;
+}
+#id1 {
+	width : 100px;
+	height : 100px;
+	background-color : rgba(122,123,34,.2);
+}
+
+a {
+	text-decoration: none;
+	color : white;
+	font-size: 18px;
+	font-family: Arial,Verdana;
+}
+
+#sizedimage {
+	width : 500px;
+	height: 300px;
+}

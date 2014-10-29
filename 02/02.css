@@ -1,0 +1,42 @@
+.container {
+	width: 100%;
+	height: 1100px;
+	background-color: #767676;
+	position: relative;
+	top : -10px;
+}
+.left, .right, .middle{
+	width : 45%;
+}
+.left, .right {
+	float : left;
+	padding: 5px;
+}
+
+.left {
+	color : red;
+}
+
+.middle {
+	color : yellow;
+	clear : both;
+	margin : 0 auto;
+}
+
+.right {
+	color : blue;
+}
+
+.left a {
+	color : yellow;
+}
+
+.middle #list1 li {
+	list-style: none;
+	display : inline;
+}
+
+
+
+
+
